@@ -22,7 +22,9 @@ const poorUser = {
 };
 
 poorUser.addBalance(10000);
+console.log(poorUser);
 
 const arr: number[] = [1, 2, 3];
 
 const sqrArray = arr.map((elem: number): number => elem * elem);
+console.log(sqrArray);
