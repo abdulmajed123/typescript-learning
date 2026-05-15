@@ -11,7 +11,7 @@ const getUserDashbaord = (role: UserRole) => {
   }
 };
 
-getUserDashbaord("guest");
+getUserDashbaord("admin");
 
 // Intersection &
 
